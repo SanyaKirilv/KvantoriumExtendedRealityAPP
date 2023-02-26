@@ -1,2 +1,2 @@
 # KvantoriumExtendedRealityAPP
-This repository of all AR and VR application of kvantorium for XR exhibition
+This is the repository of all AR and VR applications of Kvantorium, which are made for XR exhibition.
